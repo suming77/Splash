@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView textView = (TextView) findViewById(R.id.tv_main);
-        textView.setText("主界面 \n"+"我的博客地址：https://blog.csdn.net/m0_37796683 \n"+"我的github: https://github.com/MingYanSu");
+        textView.setText("主界面 \n"+"我的博客地址：https://blog.csdn.net/m0_37796683 \n"+"我的github: https://github.com/FollowExcellence");
     }
 }
